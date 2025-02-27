@@ -6,7 +6,7 @@
 🔹 Passionate about using data-driven insights to optimize business strategies  
 
 📌 **Portfolio Highlights:**  
-- 📊 [Healthcare Process Optimization Case Study](https://github.com/yourusername/healthcare-case-study)  
+- 📊 [Pipets to Profits: Supply Chain Insights](https://github.com/navarazavi/pipets-to-profits)  
 - 🔍 [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)  
 - 📈 [Excel Financial Modeling Template](https://github.com/yourusername/financial-modeling)  
 
